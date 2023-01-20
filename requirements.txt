@@ -1,0 +1,4 @@
+SQLAlchemy==1.4.45
+SQLAlchemy-Utils==0.38.3
+Scrapy==2.7.1
+psycopg2-binary==2.9.5
