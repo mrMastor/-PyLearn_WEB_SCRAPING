@@ -1,4 +1,4 @@
-# Решение ДЗ №2 по теме "WEB SCRAPING". ВЫБОР НОУТБУКА  
+## Решение ДЗ №2 по теме "WEB SCRAPING". ВЫБОР НОУТБУКА  
 ### Инструмент: scrapy + sqlalchemy + postgresql  
 
 ### Задание:  
